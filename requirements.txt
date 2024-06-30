@@ -1,0 +1,5 @@
+To make the programme available, here are the requirements:
+
+PyYAML v6.0.1
+requests v2.32.3
+pandas v2.2.2
